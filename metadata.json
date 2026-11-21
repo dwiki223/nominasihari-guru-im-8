@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nominasi Guru",
+  "description": "Aplikasi voting nominasi guru dengan verifikasi token unik siswa dan sinkronisasi data Excel ke Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
